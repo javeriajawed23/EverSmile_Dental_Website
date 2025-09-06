@@ -62,5 +62,3 @@ The site provides an elegant and user-friendly interface for potential patients 
 
 4. **Open in browser**
    Visit: `http://localhost:3000`
-- **GitHub**: [pawantech12](https://github.com/pawantech12)
-- **Portfolio**: [pawankumavat](https://pawan-kumavat.vercel.app/)
