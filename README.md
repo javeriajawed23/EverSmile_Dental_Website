@@ -44,8 +44,8 @@ The site provides an elegant and user-friendly interface for potential patients 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/pawantech12/brightsmile-dental-website.git
-   cd brightsmile-dental-website
+   git clone https://github.com/javeriajawed23/EverSmile_Dental_Website.git
+   cd EverSmile_Dental_Website
    ```
 
 2. **Install dependencies**
@@ -62,16 +62,5 @@ The site provides an elegant and user-friendly interface for potential patients 
 
 4. **Open in browser**
    Visit: `http://localhost:3000`
-
-## 🌐 Deployment
-
-This project can be easily deployed on [Vercel](https://vercel.com/) for optimal performance.
-
-## 📞 Contact
-
-If you’d like a similar modern, responsive website for your clinic or business, feel free to connect:
-
-- **Name**: Pawan Kumavat
-- **Email**: [pawankumavat042@gmail.com](mailto:pawankumavat042@gmail.com)
 - **GitHub**: [pawantech12](https://github.com/pawantech12)
 - **Portfolio**: [pawankumavat](https://pawan-kumavat.vercel.app/)
